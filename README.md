@@ -10,7 +10,7 @@ Express.js back end works with pre-existing front end application to allow users
 
 ## Screenshot
 
-![Screenshot of Note Taker](./assets/images/screenshot-notes.png)
+![Screenshot of Note Taker](./assets/screenshot-notes.png)
 
 ## Contact
 
